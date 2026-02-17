@@ -1,4 +1,4 @@
-# Shahrestan RAG Chatbot
+# RAG Chatbot
 
 Intelligent Persian-language chatbot using **Retrieval-Augmented Generation (RAG)** to answer questions based on custom documents (e.g. city regulations, laws, FAQs).
 
