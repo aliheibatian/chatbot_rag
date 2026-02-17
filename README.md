@@ -13,7 +13,8 @@ Intelligent Persian-language chatbot using **Retrieval-Augmented Generation (RAG
   As you type, it searches similar past questions semantically/hybrid → shows quick matches → click to instantly get the answer (no need to query sources again)
 - Streamlit frontend
 - Modular architecture
-[answer_by_adminlike.webm](https://github.com/user-attachments/assets/06a6aff0-d56a-42e9-8cd1-872c28d37541)
+
+[answer_by_adminlike.webm](https://github.com/user-attachments/assets/1908b358-3023-4528-af98-a17185dfc255)
 
 ## Tech Stack
 - Python 3.10+
