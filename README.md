@@ -11,15 +11,17 @@ Intelligent Persian-language chatbot using **Retrieval-Augmented Generation (RAG
 - Context-aware generation using LLM
 - **Hybrid + semantic search on previous questions & answers liked by admin**  
   As you type, it searches similar past questions semantically/hybrid → shows quick matches → click to instantly get the answer (no need to query sources again)
-- Streamlit / Gradio / FastAPI frontend
+- Streamlit frontend
 - Modular architecture
+[answer_by_adminlike.webm](https://github.com/user-attachments/assets/06a6aff0-d56a-42e9-8cd1-872c28d37541)
 
 ## Tech Stack
 - Python 3.10+
-- LangChain / LlamaIndex (or your framework)
-- Embeddings: sentence-transformers / OpenAI / ...
-- LLM: Grok / GPT / Llama3 / local model
-- Vector store: FAISS / Chroma / Pinecone
+- LangChain / Langgraph 
+- Embeddings: BGE-M3
+- Reranker: jina reranker multilingual
+- LLM:Llama3.1:8b
+- Vector store: Milvus
 - UI: Streamlit
 
 ## Quick Start
