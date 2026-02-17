@@ -354,7 +354,7 @@ if image_base64:
 st.markdown(
     """
     <h1 style='text-align: center; direction: rtl; font-size: 31px;'>
-        💡 دستیار هوشمند شرکت توزیع برق شهرستان اصفهان
+        💡 دستیار هوشمند شرکت برق 
     </h1>
     """,
     unsafe_allow_html=True

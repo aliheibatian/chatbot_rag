@@ -654,7 +654,7 @@ def main_page():
         show_billing_protest_form()
         
 pages = st.navigation([
-    st.Page(main_page, title="صفحه اصلی", icon="🏠"),
+    # st.Page(main_page, title="صفحه اصلی", icon="🏠"),
     st.Page("app.py", title="دستیار هوشمند", icon="💡"),
     st.Page("admin_page.py", title="دسترسی ادمین", icon="🔐")
     # st.Page("pages/form.py", title="ثبت واگذاری", icon="📝"),

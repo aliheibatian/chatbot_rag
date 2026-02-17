@@ -13,7 +13,7 @@ from pymongo import MongoClient  # اضافه‌شده برای MongoDB
 MILVUS_HOST = "localhost"
 MILVUS_PORT = "19530"
 KNOWLEDGE_COLLECTION_NAME = "llm_knowledge_base"
-DATA_DIRECTORY = "/home/ali/Anacav/ChatBot/shahrestan_chatbot_12shahrivar/data"
+DATA_DIRECTORY = "/home/ali/Project/chatbot_rag/data"
 BGE_M3_MODEL_PATH = "/home/ali/.cache/huggingface/hub/models--BAAI--bge-m3/snapshots/5617a9f61b028005a4858fdac845db406aefb181"
 DENSE_DIM = 1024
 MONGO_URI = 'mongodb://localhost:27017/'  # اضافه‌شده
